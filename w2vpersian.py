@@ -56,6 +56,7 @@ class DataSet:
         vocab_size = len(vocab)
         return vocab_size, vocab
 
+DataSet("92121483696289.csv", "Dataset.txt")
 
 def standardization(data):
     return tf.strings.regex_replace(data,
