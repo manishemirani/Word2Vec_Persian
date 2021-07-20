@@ -1,2 +1,2 @@
 # Wor2Vec_Persian
-This is an example of Word2vec algorithm that implemented on small [Persian datset](https://drive.google.com/file/d/1D7xqjI-xWDQddHc1OISRuMqY8QE0tMzo/view?usp=sharing)
+This is an example of the Word2vec algorithm that, implemented on a small [Persian datset](https://drive.google.com/file/d/1D7xqjI-xWDQddHc1OISRuMqY8QE0tMzo/view?usp=sharing)
