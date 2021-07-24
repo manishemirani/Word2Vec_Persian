@@ -158,7 +158,7 @@ targets, contexts, labels = generate_data(sequences,
                                           seed=seed)
 words_dataset = tf.data.Dataset.from_tensor_slices(((targets, contexts), labels))
 words_dataset = words_dataset.shuffle(buffer_size).batch(batch_size, drop_remainder=True)
-words_dataset = words_dataset.cache().prefetch(buffer_size=tf.data.AUTOTUNE)
+words_dataset = words_dataset.cache().prefetch(buffer_size=autotune)
 
 
 class PersianWord2Vec(Model):
