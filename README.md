@@ -1,5 +1,5 @@
 # Wor2Vec_Persian
-This is an example of the Word2vec algorithm that, implemented on a small [Persian datset](https://drive.google.com/file/d/1D7xqjI-xWDQddHc1OISRuMqY8QE0tMzo/view?usp=sharing)
+This is an example of the [Skip-gram](https://manishemirani.github.io/Distributed-Representation-of-words/) algorithm that, implemented on a small [Persian datset](https://drive.google.com/file/d/1D7xqjI-xWDQddHc1OISRuMqY8QE0tMzo/view?usp=sharing)
 
 ![alt text](https://raw.githubusercontent.com/manishemirani/Word2Vec_Persian/main/w2vpersian.png)
 
